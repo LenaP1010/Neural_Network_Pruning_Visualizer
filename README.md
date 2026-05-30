@@ -8,4 +8,4 @@ Developing a Pruning Tool: Creating a Command Line Interface (CLI) tool to autom
 
 Visualization of Results: Providing functional capabilities for visualizing changes in network structure before and after pruning, including graphs showing weight distribution, network diagrams, and heatmaps.
 
-Evaluation Metrics: Developing a system to assess key metrics (model size, inference speed, accuracy) both before and after pruning, aiming to identify the optimal configuration of the model..
+Evaluation Metrics: Developing a system to assess key metrics (model size, inference speed, accuracy) both before and after pruning, aiming to identify the optimal configuration of the model...
